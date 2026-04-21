@@ -1,0 +1,2 @@
+# Design-and-Development-of-Women-Safety-Application-with-GPS-Tracking-and-Emergency-Alert-System
+Women Safety App is a real-time security solution that tracks user location using GPS and sends emergency alerts via SMS/WhatsApp with live tracking links. It includes SOS trigger, safe zone detection, fake call feature, and Firebase integration to ensure quick response and continuous monitoring for enhanced personal safety.
